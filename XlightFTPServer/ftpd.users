@@ -1,0 +1,13 @@
+<virtualserver 10.49.12.205:21>
+
+<username "anonymous">
+AllowNoPassword:yes
+VirtualPath: "/|d:\FTP\file\anonymous\|R--L---S"
+</username>
+
+<username "unp">
+VirtualPath: "/|d:\FTP\file\unp\|RWCLADNS"
+</username>
+
+</virtualserver>
+
