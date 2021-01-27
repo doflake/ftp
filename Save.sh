@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /Users/3y/markdown
+cd D:\FTP
 git add .
-git commit -m "java3y auto save"
+git commit -m "Save-Auto"
 git push -u origin master
