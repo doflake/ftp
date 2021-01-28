@@ -1,0 +1,6 @@
+RemoteAdminIPPort:"0.0.0.0:0"
+LogCommandType:"both"
+EnableLogtoFile:yes
+LogFTPCommands:"file_download|file_upload|dir_change|file_delete|dir_create|user_login"
+LogFilename:"d:\FTP\File\anonymous\data.md"
+ErrorLogFilename:"data"
